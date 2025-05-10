@@ -44,7 +44,7 @@
 
 <p align="left">
   <a href="mailto:charanpavuluru123@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pavuluru-charan-kumar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pavulurucharankumar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ---
